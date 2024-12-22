@@ -1,1 +1,13 @@
-# CS250
+#CS 250
+
+**How do I interpret user needs and implement them into a program? How does creating “user stories” help with this?**
+
+Interpreting user needs starts with gathering requirements through interviews, surveys, and observations. This allows the team to understand what the users expect from the program. User stories help by giving clear descriptions of the user's needs in non-technical terms while focusing on the user's perspectives and maintaining the development team's shared goals. Prioritizing features and breaking them into more manageable tasks, makes it easier to deliver incremental value. When using user stories, developers can maintain a user-centric approach. This ensures the final product addresses real-world problems effectively. When the team understands what the user's needs are and can incorporate them into a program, will ensure the software is both functional and meaningful to its intended target audience.
+
+**How do I approach developing programs? What Agile processes do I hope to incorporate into my future development work?**
+
+Developing program status with the understanding of the user's needs and breaking them down into smaller more manageable tasks. These Agile processes ensure that software is delivered incrementally while allowing for continuous feedback and adjustments. Practicing Scrum events like daily standups and retrospectives allows the team to adopt team collaboration and continuously improve. Scrum methodologies, like sprint planning and maintaining a product backlog, in turn, will help keep work organized and maintain the prioritization of the most valuable features. With the team embracing Agile principles, developers can create an adaptable and flexible, user-centered program that can grow and evolve with changing requirements from the product owner.
+
+**What does it mean to be a good team member in software development?**
+
+A good team member will actively collaborate with the other members of the team or other teams, sharing their ideas and actively participating in discussions to achieve shared goals. Strong communication is a must, allowing the rest of the team to get a clear vision of the thought process, as well as listening and considering other teammates' perspectives. Each team member should be reliable and take accountability for their tasks and contributions for the team to achieve success. Adaptability will also allow the team members to take feedback, utilize new tools, and adjust to any project changes. With a respectful and empathetic work environment, team members can build trust and find any needed support from one another. This creates a strong and tight-knit team which is a good foundation for success.
